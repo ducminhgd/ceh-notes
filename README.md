@@ -2,6 +2,10 @@
 
 _Notes are written in English and Vietnamese_
 
+## To do list
+
+- Differences between hub and switch? How do they work? Why attackers should/have to/must use active sniffing for switch?
+
 ## Module 01
 
 1. [Essential Terminology](module01/01_Essential_Ternimnology.md)

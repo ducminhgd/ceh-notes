@@ -1,4 +1,4 @@
-# Information gathering
+# Information gathering - Thu thập thông tin
 
 This method is also called _human hacking_ or _non-IT hacking_. Information can be gathered from _human mistakes_, such as:
 - Simple passwords base on personal information: birthday, phone numbers, address, or even favorite color of owners or their folks.
@@ -17,6 +17,30 @@ Phương pháp này còn gọi là kỹ thuật _hack con người_ hoặc _hack
 - Thông tin hệ thống, công ty hay tổ chức cũng có thể bị thu thập thông qua phương pháp này.
 
 # Sniffing and eavesdropping
+
+Sniffing is a process of monitoring and **capturing all data packets** passing through a given network using sniffing tools.
+
+## Passive sniffing:
+
+Passive sniffing means sniffing through a **hub**, on a hub the traffic is sent to all port.
+
+It involves only monitoring of packets sent by others without sending **any additional data packets** in the traffic network
+
+In a network that use hubs to connect sytems, all **hosts on the network** can see all traffice therefore attacker can easily capture traffice going through the hub
+
+Hub usage is out-dated today. Most modern networks use **switches**.
+
+## Active sniffing
+
+**Active sniffing** is used to sniff **switch-based network**
+
+Active sniffing involves **injecting address resolution packets (ARP)** into the network to flood the switch's Content Addressable Memory (CAM) table, CAM keeps track of which host is connected to which port.
+
+_Please read more in Module 07 Sniffing_
+
+----
+
+_Tham khảo thêm trong Module 07 Sniffing_
 
 # Spoofing
 
