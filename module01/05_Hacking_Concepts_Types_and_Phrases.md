@@ -16,20 +16,45 @@ Hacking can be used to steal, pilfer, and redistribute intellectual property lea
 
 Some do hacking with malicious behind their escapades, like stealing business data, credit card information, social security numbers, email passwords, etc.
 
-## Hacker classes
+# Hacker classes or Hacker types
 
-**Black hats:** Individuals with extraordianry computing skills, resorting to malicious or destructive activities and are also known as crackers.
+| Class                       | Description                                                                                                                                         |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Black hats**              | Individuals with extraordianry computing skills, resorting to malicious or destructive activities and are also known as crackers.                   |
+| **White hats**              | Individuals professing hacker skills and using them for defensive purposes and are also known as security analysts.                                 |
+| **Gray hats**               | Individuals who work both offensively and defensively at various times.                                                                             |
+| **Suicide Hackers**         | Individuals who aim to bring down critical infrastructure for a "cause" and are not worried about facing jail terms or any other kind of punishment |
+| **Script Kiddies**          | an unskilled hacker who compromises system by running scripts, tools, and software developed by real hackers.                                       |
+| **Cyber Terrorists**        | Individuals with wide range of skills, motivated by religious or political beliefts to create fear by large-scal disruption of computer networks    |
+| **State Sponsored Hackers** | Individuals employed by tyhe goverments to penetrate and gain top-secret information to damage information systems of other governments             |
+| **Hacktivist**              | Individuals who promote a political agenda by hacking, especially by defacing or disabling websites                                                 |
 
-**White hats:** Individuals professing hacker skills and using them for defensive purposes and are also known as security analysts.
+# Hacking phases
 
-**Gray hats:** Individuals who work both offensively and defensively at various times.
+## Reconnaissance
 
-**Suicide Hackers:** Individuals who aim to bring down critical infrastructure for a "cause" and are not worried about facing jail terms or any other kind of punishment
+- Reconnaissance refers to the preparatory phase where an **attacker seeks to gather information** about a target prior to launching an attack
 
-**Script Kiddies:** an unskilled hacker who compromises system by running scripts, tools, and software developed by real hackers.
+- Could be the future point of return, noted for ease of entry for an attack when more about the **target is known on a board scale**
 
-**Cyber Terrorists:** Individuals with wide range of skills, motivated by religious or political beliefts to create fear by large-scal disruption of computer networks
+- Reconnaissance **target range** may include the target organization's clients, employees, operations, network, and systems
 
-**State Sponsored Hackers:** Individuals employed by tyhe goverments to penetrate and gain top-secret information to damage information systems of other governments
+### Passive Reconnaissance
 
-**Hacktivist:** Individuals who promote a political agenda by hacking, especially by defacing or disabling websites
+- Passive reconnaissance involves acquiring inforamtion **without directly interacting with the target**
+
+- For example, searching public records or news releases
+
+## Active reconnaissance
+
+- Active reconnaissance involves **interacting with the target directly by any means**
+
+- For example, telephone calls to the help desk or technical departments
+
+## Scanning
+
+## Gaining access
+
+## Maintaining access
+
+## Clearing tracks
