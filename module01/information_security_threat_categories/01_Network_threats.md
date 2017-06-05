@@ -20,15 +20,29 @@ Phương pháp này còn gọi là kỹ thuật _hack con người_ hoặc _hack
 
 Sniffing is a process of monitoring and **capturing all data packets** passing through a given network using sniffing tools.
 
+----
+
+Sniffing là một phương pháp dùng các công cụ theo dõi và **bắt tất cả các gói tin** được chuyển trong mạng.
+
 ## Passive sniffing:
 
-Passive sniffing means sniffing through a **hub**, on a hub the traffic is sent to all port.
+Passive sniffing means sniffing through a **hub**, on a hub the traffic is sent to all ports.
 
 It involves only monitoring of packets sent by others without sending **any additional data packets** in the traffic network
 
-In a network that use hubs to connect sytems, all **hosts on the network** can see all traffice therefore attacker can easily capture traffice going through the hub
+In a network that use hubs to connect sytems, all **hosts on the network** can see all traffic therefore attacker can easily capture traffic going through the hub
 
 Hub usage is out-dated today. Most modern networks use **switches**.
+
+----
+
+Sniffing bị động là sniff thông qua một **hub**, lưu lượng dữ liệu trong hub được gửi đến toàn bộ các cổng.
+
+Theo dõi các gói tin được gửi bởi các thiết bị khác nhưng không gửi **bất kỳ gói dữ liệu thêm nào** trong một mạng dữ liệu.
+
+Trong một mạng sử dụng hub, tất cả **các host trong mạng** có thể thấy được sự lưu thông dữ liệu do đó kẻ tấn công có thể bắt dữ liệu được truyền thông qua hub một các dễ dàng.
+
+Hub là một loại thiết bị đã lỗi thời, các mạng dữ liệu hiệu tại đa số sử dụng **switch**.
 
 ## Active sniffing
 
@@ -39,6 +53,8 @@ Active sniffing involves **injecting address resolution packets (ARP)** into the
 _Please read more in Module 07 Sniffing_
 
 ----
+
+Sniffing chủ động bao gồm cả việc **nhét các gói phân giải địa chỉ** vào trong mạng để gây quá tải bản Content Addressable Memory (CAM) của switch, CAM lưu trữ thông tin máy nào được kết nối vào port nào.
 
 _Tham khảo thêm trong Module 07 Sniffing_
 
