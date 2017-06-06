@@ -45,7 +45,7 @@ Some do hacking with malicious behind their escapades, like stealing business da
 
 - For example, searching public records or news releases
 
-## Active reconnaissance
+### Active reconnaissance
 
 - Active reconnaissance involves **interacting with the target directly by any means**
 
@@ -53,8 +53,36 @@ Some do hacking with malicious behind their escapades, like stealing business da
 
 ## Scanning
 
+**Pre-attack phase:** Scanning refers to the pre-attack phase when the attacker **scans the network** for specific information on the basis of information gathered during reconnaissance.
+
+**Port scanner:** Scanning can include use of dialers, port scanners, network mappers, ping tools, vulnerability scanners, etc.
+
+**Extract information:** Attackers extract information such as live machines, port, port status, OS details, device type, system uptime, etc. to launch attack
+
 ## Gaining access
+
+Gaining access refers to the point where the attacker obtains access to the operating system or applications on the computer or network
+
+The attacker can gain access at the operating system level, application level, or network level
+
+The attacker can escalate privileges to obtain complete control of the system. In the process, intermediate systems that are connected to it are also compromised
+
+Example include password cracking, buffer overflow, denial of service, session hijacking, etc.
 
 ## Maintaining access
 
+Maintaining access refers to the phase when the attacker tries to retain his or her ownership of the system.
+
+Attackers may prevent the system from being owned by other attackers by securing their exclusive access with Backdoors, RootKits, or Trojans.
+
+Attackers can upload, download, or manipulate data, applications, and configurations on the owned system.
+
+Attackers use the compromised system to launch further attacks.
+
 ## Clearing tracks
+
+Covering tracks refers to the activities carried out by an attacker to hide malicious acts
+
+The attacker's intentions include: conitnuing access to the victim's system, remaining unniticed and uncaugt, deleting evidence that might lead to his prosecution
+
+The attacker oeverwrites the server, system, and application logs to avoid suspicion
