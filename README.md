@@ -5,6 +5,7 @@ _Notes are written in English and Vietnamese_
 ## To do list
 
 - Differences between hub and switch? How do they work? Why attackers should/have to/must use active sniffing for switch?
+- What is Internet DMZ?
 
 ## Module 01
 
