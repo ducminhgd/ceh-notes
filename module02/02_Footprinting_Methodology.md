@@ -130,9 +130,62 @@ Some website mirroring tools:
 - [GNU Wget](http://www.gnu.org)
 - [Hooeey Webprint](http://www.hooeeywebprint.com)
 
+Web updates monitoring tools:
+- [Change detaction](http://www.changedetection.com)
+- [Follow That Page](http://www.followthatpage.com)
+- [Page2RSS](http://page2rss.com)
+- [Watch that page](http://www.watchthatpage.com)
+- [Check 4 Change](https://addons.mozilla.org)
+- [OnWebChange](http://onwebchange.com)
+- [Infominder](http://www.infominder.com)
+- [Tracked Content](http://trackedcontent.com)
+- [Web Snitcher](http://websnitcher.com)
+- [Update scanner](https://addons.mozilla.org)
+
+
 # Email Footprinting
 
+Collecting information from **email header**:
+- The address from which the message was sent
+- Sender's IP Address
+- Sender's mail server
+- Date and time received by the originator's email server
+- Authentication system used by sender's mail server
+- Date and time of message sent
+- Sender's fullname
+
+Email tracking tools:
+- [eMailTrackerPro](http://www.emailtrackerpro.com)
+- [PoliteMail](http://www.politemail.com)
+- [Email Lookup - Free Email tracker](http://www.ipaddresslocation.org)
+- [Yesware](http://www.yesware.com)
+- [ContactMonkey](http://contactmonkey.com)
+- [Read Notify](http://www.readnotify.com)
+- [DidTheyReadIt](http://www.didtheyreadit.com)
+- [TraceEmail](http://whatismyipaddress.com)
+- [Zendio](http://www.zendio.com)
+- [PointOfMail](http://www.pointofmail.com)
+- [WhoReadMe](http://whoreadme.com)
+- [Get Notify](http://www.getnotify.com)
+- [G-Lock Analytics](http://glockanalytics.com)
+
 # Competitive Intelligence
+
+Competitive intelligence gathering is the process of **identifying**, **gathering**, **analyzing**, **verifying**, and using information about your competitors from resources suc as the Internet
+
+Competitive intelligence is **non-interfering** and **subtle of nature**
+
+Sources of Competitive Intelligence:
+1. Company websites and employments ads
+2. Search engines, Internet, and online DB.
+3. Press releases and annual reports
+4. Trade journals, conferences, and newspaper
+5. Patent and trademarks
+6. Social engineering employees
+7. Product catalogues and retail outlets
+8. Analyst and regulatory reports
+9. Customer and vendor interviews
+10. Agents, distributors, and supplies
 
 # WHOIS Footprinting
 
