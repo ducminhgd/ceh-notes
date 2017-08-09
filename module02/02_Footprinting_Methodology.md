@@ -187,6 +187,23 @@ Sources of Competitive Intelligence:
 9. Customer and vendor interviews
 10. Agents, distributors, and supplies
 
+## Monitoring website traffic of target company
+
+Attacker uses website traffic monitoring tools such as **web-stat**, **Alexa**, **Monitis**, etc. to collect the information about the target company
+
+Traffic monitoring helps to collect information about the **target's customer base** which helps attackers to disguise as a customer and launch social engineering attacks on the target.
+
+## Tracking Online Reputation of the target
+
+Online Reputation Management (ORM) is a process of **monitoring a company's reputation on Internet** and taking certains measures to minimize the negative search results/reviews thereby improve its brand reputation.
+
+An attacker uses ORM tracking tools to:
+- Track **company's online reputation**
+- Collect company's **search engine ranking** information
+- Obtain **email notifications** when a company is mentioned online
+- Track **conversations**
+- Obtain **social news** about the target organization
+
 # WHOIS Footprinting
 
 # DNS Footprinting
