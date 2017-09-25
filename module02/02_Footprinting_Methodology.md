@@ -206,7 +206,51 @@ An attacker uses ORM tracking tools to:
 
 # WHOIS Footprinting
 
+WHOIS database are maintained by **Regional Internet Registries** and contain the **personal information of domain owners**.
+
+WHOIS query returns:
+- Domain name details
+- Contact details of domain owner
+- Domain name servers
+- NetRange
+- When a domain has been created
+- Expiry records
+- Records last updated
+
+Information obtained from WHOIS database assists an attacker to:
+- Gather personal information that assisists to perform social engineering
+
 # DNS Footprinting
+
+Attacker can gather DNS information to **determine key hosts in the network** and can perform social engineering attacks
+
+DNS records provide important information about location and type of servers
+
+| Record type | Description                                      |
+|-------------|--------------------------------------------------|
+| A           | Points to a host's IP Address                    |
+| MX          | Points to domain's mail server                   |
+| NS          | Points to host's name server                     |
+| CNAME       | Canonical naming allows aliases to a host        |
+| SDA         | Indicate authority for domain                    |
+| SRV         | Service records                                  |
+| PTR         | Maps IP Address to a hostname                    |
+| RP          | Responsible person                               |
+| HINFO       | Host information record includes CPU type and OS |
+| TXT         | Unstructured text records                        |
+
+Locate the **Network range**:
+- Network range information assists attackers to create a **map of target network**
+- Find the **range of IP addresses** using **ARIN whois database search** tool
+- You can find the range of IP addresses and the subnet mask used by the target orgranization from **Regional Internet Registry (RIR)**
+
+Traceroute programs work on the concept of **ICMP protocol** and **use the TTL field in the header of ICMP packets** to discover the routers on the path to a target host.
+- Attackers conduct traceroute to extract information about: **network topology**, **trusted routers**, and **firewall locations**
+- By putting this information together, attackers can draw the **network diagram**
+
+Traceroute tools:
+- Path Analyzer Pro
+- VisualRoute
 
 # Network Footprinting
 
